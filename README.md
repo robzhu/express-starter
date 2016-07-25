@@ -1,5 +1,5 @@
 # express-starter
-Starter kit for building an express/node app using babel for ES6 and await/async support. 
+Starter kit for building an express/node app using babel for ES6 and await/async support. Uses babel-watch for a save/refresh workflow. 
 
 ## Clone and install packages
 ```
