@@ -14,4 +14,4 @@ This project supports a save/refresh workflow via babel-watch. Run the following
 npm run dev
 ```
 
-Now, edit src/index.js (for example, change the string returnd from the default route), save, and refresh your browser to see your chages. 
+Now, edit src/index.js (for example, change the string returned from the default route), save, and refresh your browser to see your chages. 
